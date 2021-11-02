@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello World Button Homework</string>
+    <string name="button_text">Suspicious Button</string>
+    <string name="text_on_click">Hello World!</string>
+</resources>
